@@ -1,0 +1,5 @@
+Tried to find out the qualities every hotel should have to get 5 star from customers. So, first we visualize the datas and find out that maximum percentage of ratings were 5. Thus this dataset from Kaggle can be considered for extracting the attributes every hotel should have.
+
+Dataset used:https://www.kaggle.com/andrewmvd/trip-advisor-hotel-reviews
+
+used language: Python and packages (Pandas, nltk(FreqDist),matplotlib) 
